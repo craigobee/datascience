@@ -1,4 +1,7 @@
-![](assets/profile.jpg) 
+
+<p align="right">
+  <img src="assets/profile.jpg" alt="Profile Image" width="150" />
+</p>
 # My CV
 
 ## Skills
