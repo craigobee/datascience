@@ -10,11 +10,11 @@ Pizza making
 Pizza eating  
 
 ## Data Projects  
-**Chasing Speed: Why Non-Elite Marathon Times Remain Stagnant Despite Running Tech Advancements** 
-<p align="right">
-  <img src="assets/marathon.jpg" alt="London Marathon" width="200" />
-</p>
 
+<p align="center">
+  <img src="assets/marathon.jpg" alt="London Marathon" width="400" />
+</p>
+**Chasing Speed: Why Non-Elite Marathon Times Remain Stagnant Despite Running Tech Advancements** 
 
 ## Education
 Data Science (Work based apprenticeship with [BPP](https://www.bpp.com/) - May 2023 - May 2026
