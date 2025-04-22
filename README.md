@@ -13,12 +13,11 @@ Pizza eating
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
-    <h4>Chasing Speed: Why Non-Elite Marathon Times Remain <br>
-      Stagnant Despite Running Tech Advancements</h4>
+    <h4>Chasing Speed: Why Non-Elite Marathon Times Remain Stagnant Despite Running Tech Advancements</h4>
     <p>
     </p>
   </div>
-  <img src="assets/marathon.jpg" alt="London Marathon" width="250">
+  <img src="assets/marathon.jpg" alt="London Marathon" width="275">
 </div>
 
 
