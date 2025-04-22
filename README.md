@@ -1,6 +1,6 @@
 
 <p align="right">
-  <img src="assets/profile.jpg" alt="Profile Image" width="150" />
+  <img src="assets/profile.jpg" alt="Profile Image" width="200" />
 </p>
 # My CV
 
