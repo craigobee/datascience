@@ -17,8 +17,11 @@ Pizza eating
     <p>
     </p>
   </div>
-  <img src="assets/marathon.jpg" alt="London Marathon" width="275">
+  <a href="https://github.com/craigobee/ldnmarathonfinishers" target="_blank">
+    <img src="assets/marathon.jpg" alt="London Marathon" width="275">
+  </a>
 </div>
+
 
 
 ## Education
