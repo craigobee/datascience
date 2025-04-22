@@ -11,9 +11,16 @@ Pizza eating
 
 ## Data Projects  
 
-<p align="center">
-  <img src="assets/marathon.jpg" alt="London Marathon" width="400" />
-</p>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <h2>London Marathon Insights</h2>
+    <p>
+     **Chasing Speed: Why Non-Elite Marathon Times Remain Stagnant Despite Running Tech Advancements** 
+    </p>
+  </div>
+  <img src="assets/marathon.jpg" alt="London Marathon" width="300">
+</div>
+
 **Chasing Speed: Why Non-Elite Marathon Times Remain Stagnant Despite Running Tech Advancements** 
 
 ## Education
