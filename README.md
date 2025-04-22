@@ -1,3 +1,4 @@
+![](assets/profile.jpg) 
 # My CV
 
 ## Skills
