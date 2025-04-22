@@ -10,7 +10,10 @@ Pizza making
 Pizza eating  
 
 ## Data Projects  
-**Chasing Speed: Why Non-Elite Marathon Times Remain Stagnant Despite Running Tech Advancements** ![image](https://github.com/user-attachments/assets/59d23f00-4c1f-4f07-a1a1-f51e380aa808)
+**Chasing Speed: Why Non-Elite Marathon Times Remain Stagnant Despite Running Tech Advancements** 
+<p align="right">
+  <img src="assets/marathon.jpg" alt="London Marathon" width="200" />
+</p>
 
 
 ## Education
