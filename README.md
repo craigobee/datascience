@@ -15,13 +15,13 @@ Pizza eating
   <div>
     <h2>London Marathon Insights</h2>
     <p>
-     **Chasing Speed: Why Non-Elite Marathon Times Remain Stagnant Despite Running Tech Advancements** 
+     **Chasing Speed: Why Non-Elite Marathon Times Remain 
+      Stagnant Despite Running Tech Advancements** 
     </p>
   </div>
-  <img src="assets/marathon.jpg" alt="London Marathon" width="300">
+  <img src="assets/marathon.jpg" alt="London Marathon" width="250">
 </div>
 
-**Chasing Speed: Why Non-Elite Marathon Times Remain Stagnant Despite Running Tech Advancements** 
 
 ## Education
 Data Science (Work based apprenticeship with [BPP](https://www.bpp.com/) - May 2023 - May 2026
