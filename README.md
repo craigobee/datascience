@@ -13,8 +13,8 @@ Pizza eating
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
-    <h3>Chasing Speed: Why Non-Elite Marathon Times Remain 
-      Stagnant Despite Running Tech Advancements</h3>
+    <h4>Chasing Speed: Why Non-Elite Marathon Times Remain <br>
+      Stagnant Despite Running Tech Advancements</h4>
     <p>
     </p>
   </div>
