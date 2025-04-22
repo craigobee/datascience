@@ -4,10 +4,10 @@
 </p>
 
 ## Skills
-Python
-SQL
-Pizza making
-Pizza eating
+Python 
+SQL 
+Pizza making 
+Pizza eating 
 
 ## Education
 Data Science (Work based apprenticeship with [BPP](https://www.bpp.com/) - May 2023 - May 2026
