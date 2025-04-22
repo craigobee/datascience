@@ -2,10 +2,12 @@
 <p align="right">
   <img src="assets/profile.jpg" alt="Profile Image" width="200" />
 </p>
-# My CV
 
 ## Skills
-
+Python
+SQL
+Pizza making
+Pizza eating
 
 ## Education
 Data Science (Work based apprenticeship with [BPP](https://www.bpp.com/) - May 2023 - May 2026
