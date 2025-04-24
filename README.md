@@ -13,7 +13,7 @@ Pizza eating
 [Chasing Speed: Why Non-Elite Marathon Times Remain Stagnant Despite Running Tech Advancements](https://github.com/craigobee/ldnmarathonfinishers/blob/main/LondonMarathon.ipynb)
 <div style="display: flex; align-items: center; justify-content: space-between;">
   
-  <a href="[https://github.com/craigobee/ldnmarathonfinishers](https://github.com/craigobee/ldnmarathonfinishers/blob/main/LondonMarathon.ipynb)" target="_blank">
+  <a href="(https://github.com/craigobee/ldnmarathonfinishers/blob/main/LondonMarathon.ipynb)" target="_blank">
     <img src="assets/marathon.jpg" alt="London Marathon" width="275">
   </a>
 </div>
