@@ -10,7 +10,7 @@ Pizza making
 Pizza eating  
 
 ## Data Projects  
-[Chasing Speed: Why Non-Elite Marathon Times Remain Stagnant Despite Running Tech Advancements]([https://github.com/craigobee/ldnmarathonfinishers](https://github.com/craigobee/ldnmarathonfinishers/blob/main/LondonMarathon.ipynb))
+[Chasing Speed: Why Non-Elite Marathon Times Remain Stagnant Despite Running Tech Advancements](https://github.com/craigobee/ldnmarathonfinishers/blob/main/LondonMarathon.ipynb)
 <div style="display: flex; align-items: center; justify-content: space-between;">
   
   <a href="[https://github.com/craigobee/ldnmarathonfinishers](https://github.com/craigobee/ldnmarathonfinishers/blob/main/LondonMarathon.ipynb)" target="_blank">
