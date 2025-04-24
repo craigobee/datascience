@@ -21,7 +21,7 @@ Pizza eating
 
 
 ## Education
-Data Science (Work based apprenticeship with [BPP](https://www.bpp.com/) - May 2023 - May 2026)
+Data Science - Work based apprenticeship with [BPP](https://www.bpp.com/) - May 2023 - May 2026
 
 
 ## Work Experience
